@@ -107,6 +107,11 @@ python -m unittest discover -s tests -v
 - Comparison of 0% and 50% vaccination scenarios.
 - Infection comparison graph.
 - Population grid visualization.
+- ## Visual Results
+
+### Infection Comparison
+
+![Infection Comparison](infection_comparison.png)
 
 ## 12. Conclusion
 
